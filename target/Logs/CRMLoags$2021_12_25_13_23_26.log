@@ -1,0 +1,5 @@
+2022-01-08 16:24:15,898  INFO [main] Class:29 - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Sign in']'
+2022-01-08 16:24:16,265  INFO [main] Class:34 - Entering harishkr755@gmail.com to [[ChromeDriver: chrome on WINDOWS (30d4abb51d1a34c1d2468585ff77fdd9)] -> xpath: //input[@id='login_field']]
+2022-01-08 16:24:16,490  INFO [main] Class:34 - Entering Harishkr@1997 to [[ChromeDriver: chrome on WINDOWS (30d4abb51d1a34c1d2468585ff77fdd9)] -> xpath: //input[@id='password']]
+2022-01-08 16:24:29,407  INFO [main] Class:29 - Clicked on the Proxy element for: DefaultElementLocator 'By.xpath: //input[@name='commit']'
+2022-01-08 16:24:29,672  INFO [main] Class:29 - Clicked on the [[ChromeDriver: chrome on WINDOWS (30d4abb51d1a34c1d2468585ff77fdd9)] -> xpath: //summary[@aria-label='View profile and more']]
